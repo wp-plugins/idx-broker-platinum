@@ -1,4 +1,4 @@
-=== IDX Broker Platinum (Beta) Wordpress Plugin ===
+=== IDX Broker Platinum Wordpress Plugin ===
 Author: IDX Broker
 Contributors: IDX Broker
 Author URL: http://www.idxbroker.com
@@ -11,7 +11,7 @@ Stable tag: 1.5.3
 <h3>New software from IDX, Inc. - IDX Broker Platinum (Beta).</h3>
 <br />
 <ul>
-<li>Works alongside current IDX Broker plugin, giving IDX Broker (Original Edition) subscribers with time to upgrade to IDX Broker Platinum.</li> 
+<li>Works alongside current IDX Broker plugin, giving IDX Broker (Original Edition) subscribers time to upgrade to IDX Broker Platinum.</li> 
 <li>New - Single field API key entry form for access to the new, more powerful Platinum API.</li>
 <li>New - Build and store an unlimited number of Widgets in IDX Broker Platinum, all for use within your WordPress website. Simply click a button to update your Widgets page with any new Widgets, then drag-and-drop them into your sidebar!</li>
 <li>New - Responsive Mobile Pages! All IDX Broker Platinum pages are responsive to mobile devices, and display an app-like experience to your site visitors. Visitors may also opt-out by clicking "View Full Site" links at the bottom of every IDX page.</li>
