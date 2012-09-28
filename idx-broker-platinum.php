@@ -2,7 +2,7 @@
 /*
 Plugin Name: IDX Broker Platinum (Beta)
 Plugin URI: http://kb.idxbroker.com/index.php?/Knowledgebase/List/Index/16
-Description: For IDX Broker Platinum (Beta). The IDX Broker Platinum plugin provides access to IDX Broker Platinum Widgets, links, and other resources available via the IDX Broker Platinum API. This plugin is designed exclusively for IDX Broker Platinum subscribers. 
+Description: The IDX Broker Platinum WordPress Plugin provides IDX Platinum subscribers with access to Responsive IDX pages, drag-and-drop sidebar widgets, customized neighborhood pages, and more. Exclusively for IDX Broker Platinum subscribers. 
 Version: 1.0.2
 Author: IDX, Inc.
 Author URI: http://www.idxbroker.com/
