@@ -4,7 +4,8 @@ Contributors: IDX Broker
 Author URL: http://www.idxbroker.com
 Tags: idx, idx feed, idx broker, idx broker platinum, idx plugin, idx wordpress plugin, wordpress plugin, real estate wordpress, real estate, idx widget, wordpress mls, wordpress idx, rets, mls, idxbroker, agent, integrated idx
 Tested up to: 3.4.2
-Stable tag: 1.5.3	 
+Stable tag: 1.5.3
+License: GPLv2 or later	 
 
 == Description ==
 
@@ -72,11 +73,11 @@ Yes. IDX Broker provides you with a sign up Widget, sign up links, a lead manage
  
 == Screenshots ==
 
-1. The New Lead Preferences Recommendation Screen. - 'screenshot1.png'
-2. The Plugin Settings Page. - 'screenshot2.png'
-3. Slideshow and Showcase Widgets in the Sidebar.  - 'screenshot3.png'
-4. The New Modal Signup Window. - 'screenshot4.png'
-5. Example of a Common Search Page. 'screenshot5.png'
+1. The New Lead Preferences Recommendation Screen. 
+2. The Plugin Settings Page. 
+3. Slideshow and Showcase Widgets in the Sidebar. 
+4. The New Modal Signup Window. 
+5. Example of a Common Search Page.
 
 == Upgrade Notice ==
 
