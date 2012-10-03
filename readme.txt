@@ -72,6 +72,13 @@ Yes. IDX Broker provides you with a sign up Widget, sign up links, a lead manage
  
 == Screenshots ==
 
+1. The New Lead Preferences Recommendation Screen. - 'screenshot1.png'
+2. The Plugin Settings Page. - 'screenshot2.png'
+3. Slideshow and Showcase Widgets in the Sidebar.  - 'screenshot3.png'
+4. The New Modal Signup Window. - 'screenshot4.png'
+5. Example of a Common Search Page. 'screenshot5.png'
+6. The Responsive Mobile Page. 'screenshot6.png'
+
 == Upgrade Notice ==
 
 == Changelog ==
