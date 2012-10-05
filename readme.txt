@@ -82,3 +82,11 @@ Yes. IDX Broker provides you with a sign up Widget, sign up links, a lead manage
 == Upgrade Notice ==
 
 == Changelog ==
+
+= 1.0.3 =
+
+Cleaned up various CSS issues and removed excess button options from spec. 
+
+= 1.0.4 =
+
+Additional CSS clean up; specific to certain installations/WP versions.  

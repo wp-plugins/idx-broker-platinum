@@ -2,8 +2,8 @@
 /*
 Plugin Name: IDX Broker Platinum (Beta)
 Plugin URI: http://kb.idxbroker.com/index.php?/Knowledgebase/List/Index/16
-Description: Provides access to the IDX Broker Platinum API, for IDX Broker Platinum Subscribers. 
-Version: 1.0.3
+Description: Provides access to the IDX Broker Platinum API, for IDX Broker Platinum Subscribers.
+Version: 1.0.4
 Author: IDX, Inc.
 Author URI: http://www.idxbroker.com/
 License: GPL
