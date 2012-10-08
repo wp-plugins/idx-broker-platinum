@@ -90,3 +90,7 @@ Cleaned up various CSS issues and removed excess button options from spec.
 = 1.0.4 =
 
 Additional CSS clean up; specific to certain installations/WP versions.  
+
+= 1.0.5 =
+
+Cleaned up naming convention inconsistencies.

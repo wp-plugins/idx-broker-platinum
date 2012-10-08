@@ -3,7 +3,7 @@
 Plugin Name: IDX Broker Platinum (Beta)
 Plugin URI: http://kb.idxbroker.com/index.php?/Knowledgebase/List/Index/16
 Description: Provides access to the IDX Broker Platinum API, for IDX Broker Platinum Subscribers.
-Version: 1.0.4
+Version: 1.0.5
 Author: IDX, Inc.
 Author URI: http://www.idxbroker.com/
 License: GPL
@@ -41,7 +41,7 @@ function idx_activate() {
 //Adds a comment declaring the version of the IDX Broker plugin if it is activated.
 function idx_broker_activated() {
 
-	echo "\n<!-- IDX Broker Platunum WordPress Plugin v1.0.3 Activated -->\n\n";
+	echo "\n<!-- IDX Broker Platunum WordPress Plugin v1.0.5 Activated -->\n\n";
 }
 
 function idx_broker_platinum_plugin_actlinks( $links ) { 
@@ -137,8 +137,8 @@ function idx_broker_platinum_options_init() {
 
 	}	
 	
-	wp_enqueue_script('idxjs', plugins_url('idx-broker-platinum-plugin/idxbroker.js'), 'jquery');
-	wp_enqueue_style('idxcss', plugins_url('idx-broker-platinum-plugin/css/idxbroker.css'));
+	wp_enqueue_script('idxjs', plugins_url('idx-broker-platinum/idxbroker.js'), 'jquery');
+	wp_enqueue_style('idxcss', plugins_url('idx-broker-platinum/css/idxbroker.css'));
 	
 }
 
