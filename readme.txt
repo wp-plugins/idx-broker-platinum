@@ -9,9 +9,8 @@ License: GPLv2 or later
 
 == Description ==
 
-<h3>Choose the #1 IDX solution provider! Over 500 IDX/MLS feeds currently serviced.</h3>
-<h4>The ONLY WordPress Plugin that gives you full client capture and customizable IDX in one $39.99 package. Don't compromise!</h4>
-
+<h3>The ONLY WordPress Plugin that gives you full client capture and fully customizable IDX in one $39.99 package. Don't compromise!</h3>
+<br />
 <ul>
 <li>Client Capture Tools: Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>
 <li>Fully customizable saved links. Wrap every custom link with your own unique content. The only IDX solution for WordPress that gives you a way to customize your Results pages!</li>   
