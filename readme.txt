@@ -1,6 +1,6 @@
 === IDX Broker Platinum Wordpress Plugin ===
 Author: IDX Broker
-Contributors: IDX Broker
+Contributors: idxco
 Author URL: http://www.idxbroker.com
 Tags: idx wordpress, idx broker, idx broker platinum, idx plugin, idx wordpress plugin, wordpress plugin, real estate wordpress, real estate, idx widget, wordpress mls, wordpress idx, rets, mls, idxbroker, agent, integrated idx
 Tested up to: 3.4.2
