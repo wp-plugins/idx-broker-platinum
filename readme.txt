@@ -2,41 +2,39 @@
 Author: IDX Broker
 Contributors: IDX Broker
 Author URL: http://www.idxbroker.com
-Tags: idx, idx feed, idx broker, idx broker platinum, idx plugin, idx wordpress plugin, wordpress plugin, real estate wordpress, real estate, idx widget, wordpress mls, wordpress idx, rets, mls, idxbroker, agent, integrated idx
+Tags: idx wordpress, idx broker, idx broker platinum, idx plugin, idx wordpress plugin, wordpress plugin, real estate wordpress, real estate, idx widget, wordpress mls, wordpress idx, rets, mls, idxbroker, agent, integrated idx
 Tested up to: 3.4.2
 Stable tag: 1.5.3
 License: GPLv2 or later	 
 
 == Description ==
 
-<h3>New software from IDX, Inc. - IDX Broker Platinum (Beta).</h3>
-<br />
+<h3>Choose the #1 IDX solution provider! Over 500 IDX/MLS feeds currently serviced.</h3>
+<h4>The ONLY WordPress Plugin that gives you full client capture and customizable IDX in one $39.99 package. Don't compromise!</h4>
+
 <ul>
-<li>New - Map Widget(s) may be placed anywhere on your site.</li> 
-<li>New - Easier setup; simply enter your API key in the plugin.</li>
-<li>New - Responsive to all devices, including mobile. </li>
-<li>New - Responsive, indexable Mobile Pages!</li>
-<li>New - Details page URLs; we have beta clients that have 40k+ pages indexed already. Many of these details pages URLs show up on page 2 or better.</li>
-<li>New - Save Widgets and automatically pull those into your site/blog using this plugin. No more static sidebar widgets, you have full control!</li>
-<li>Works with all WordPress themes.</li>
-<li>New - Lead capture signup window overlay with control over background opacity, form elements, and more.</li>
-<li>New (For Offices) - Assign ANY custom link to an Agent!</li>
-<li>New - Custom Link Wrappers. Build a wrapper for custom neighborhood links, to include neighborhood-specific widgets customized to each IDX custom link.</li>
+<li>Client Capture Tools: Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>
+<li>Fully customizable saved links. Wrap every custom link with your own unique content. The only IDX solution for WordPress that gives you a way to customize your Results pages!</li>   
+<li>Add a full sized Map Widget(s) to ANY page on your site (NEW).</li> 
+<li>Mobile Responsive. Works on ALL devices. Visitors can opt-out by simply tapping "View full-site" link at the bottom of your IDX pages. The most powerful mobile responsive IDX solution that money can buy. Completely indexable by mobile search bots! (NEW)</li>
+<li>Search-friendly Property URLs: Automatically display the property address in your URL and get those pages indexed by search enginers faster. Also applies to Responsive pages (NEW).</li>
+<li>Live Content: Published changes to your site/blog can be automatically pushed to IDX Broker Platinum servers. Even more control over your pages than WordPress; in IDX Broker Platinum publish unique custom link results pages that contain unique neighborhood and other sidebar Widgets that are unique to each page! (NEW)</li>
+<li>Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more! (NEW)</li>
+<li>Team and Offices accounts may now assign a custom link to ANY agent. Give your Agents a sub-header with a simple URL tag, and any leads sent by the Agent to that page will be automatically assigned to them! (NEW)</li>
+<li>Much Much More..and just launched this month! Login to our <a href="http://ptdemo.idxbroker.com/" target="_blank">Control Panel</a> for more info!</li>
 </ul>
 
-<h3>WordPress Demo</h3>
+<h3>For Current IDX Broker Subscribers</h3>
 
-<a href="http://ptdemo.idxbroker.com/" target="_blank">View an Integrated IDX Demo</a> website that uses IDX Broker Platinum.<br />
+If you already have an IDX Broker account and want to upgrade to Platinum now, simply <a href="http://www.idxbroker.com/contact_idx.php" target="_blank" >contact Support</a>. 
 
-<h3>Ready to Signup?</h3>
-
-<a href="http://ptdemo.idxbroker.com/" target="_blank">Do it here.</a> Same amazing price. $99 setup. If you already have an IDX Broker account and want to upgrade to Platinum now, simply <a href="http://www.idxbroker.com/contact_idx.php" target="_blank" >send support an email</a> and we will give you 30 days to migrate AND automatically redirect almost all of your links once we've migrated you to Platinum. 
-
-<h3>This plugin is very simple.</h3> 
-
+<h4>Migration details:</h4> 
 <ul>
-<li>Enter your API key. This is provided in your setup email, and can be accessed from your IDX Broker Platinum Control Panel.</li>
-<li>Follow steps 1-4.</li>
+<li>If you don't currently have a custom domain setup for your IDX Broker pages (e.g., search.mysite.com), we highly recommend that you do this in IDX Broker Platinum.</li>
+<li>All current custom links, lead/email traffic, and billing history will automatically be migrated to Platinum.</li>
+<li>Most links should redirect automatically (see Knowledgebase article link below for more details), however, we recommend that you switch to the new IDX Broker Platinum links.</li>
+<li>IDX Broker widgets will need to be replaced with Platinum Widgets (Much more powerful!)</li>
+<li>You will have 30 days to apply any updates to your site. This should be more than enough time to make the switch to the new, much more powerful IDX Broker Platinum</li>
 </ul>
 
 <h3>General Terms of Use</h3> 
