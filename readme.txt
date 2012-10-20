@@ -2,7 +2,7 @@
 Author: IDX Broker
 Contributors: idxco
 Author URL: http://www.idxbroker.com
-Tags: idx wordpress, idx broker, idx broker platinum, idx plugin, idx wordpress plugin, wordpress plugin, real estate wordpress, real estate, idx widget, wordpress mls, wordpress idx, rets, mls, idxbroker, agent, integrated idx
+Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin
 Tested up to: 3.4.2
 Stable tag: 1.5.3
 License: GPLv2 or later	 
