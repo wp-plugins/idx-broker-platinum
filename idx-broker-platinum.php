@@ -2,7 +2,7 @@
 /*
 Plugin Name: IDX Broker Platinum (Beta)
 Plugin URI: http://kb.idxbroker.com/index.php?/Knowledgebase/List/Index/16
-Description: Provides access to the IDX Broker Platinum API, for IDX Broker Platinum Subscribers.
+Description: Over 500 IDX/MLS feeds serviced. The #1 IDX/MLS solution just got even better!
 Version: 1.0.5
 Author: IDX, Inc.
 Author URI: http://www.idxbroker.com/
