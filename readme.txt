@@ -12,28 +12,28 @@ License: GPLv2 or later
 <h3>The ONLY WordPress Plugin that gives you full client capture and fully customizable IDX in one $39.99 package. Don't compromise!</h3>
 <br />
 <ul>
-<li>Client Capture Tools: Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>
-<li>Fully customizable saved links. Wrap every custom link with your own unique content. The only IDX solution for WordPress that gives you a way to customize your Results pages!</li>   
+<li>Fully indexable <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">custom domain</a> feature. Subdomains are just as good as subfolders on your website, <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >Just ask Google.</a></li> 
+<li>NEW - Search-friendly property URLs. Display property address and much more in your IDX URL and get those pages indexed by search enginers faster.</li>
+<li>NEW - Mobile-friendly IDX search. The most powerful mobile IDX solution that money can buy, at no extra cost. Mobile features include lead capture, property saves, tap to call or email, and full CSS customization!</li>
+<li>NEW - Team and Office accounts may now assign a custom link to ANY agent. Give your Agents a sub-header with a simple URL tag, and any leads sent by the Agent to that page will be automatically assigned to them.</li>
+<li>NEW - Easily create dynamic wrappers for every custom link. Simply create a new page in WordPress, customize the page, and <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/108/16/simplified-dynamic-wrapper-instructions" target="_blank" >follow these instructions</a> for each custom link. 
+<li>NEW Client Capture Tools. Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>   
 <li>Add a full sized Map Widget(s) to ANY page on your site (NEW).</li> 
-<li>Mobile Responsive. Works on ALL devices. Visitors can opt-out by simply tapping "View full-site" link at the bottom of your IDX pages. The most powerful mobile responsive IDX solution that money can buy. Completely indexable by mobile search bots! (NEW)</li>
-<li>Search-friendly Property URLs: Automatically display the property address in your URL and get those pages indexed by search enginers faster. Also applies to Responsive pages (NEW).</li>
-<li>Live Content: Published changes to your site/blog can be automatically pushed to IDX Broker Platinum servers. Even more control over your pages than WordPress; in IDX Broker Platinum publish unique custom link results pages that contain unique neighborhood and other sidebar Widgets that are unique to each page! (NEW)</li>
-<li>Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more! (NEW)</li>
-<li>Team and Offices accounts may now assign a custom link to ANY agent. Give your Agents a sub-header with a simple URL tag, and any leads sent by the Agent to that page will be automatically assigned to them! (NEW)</li>
-<li>Much Much More..and just launched this month! Login to our <a href="http://ptdemo.idxbroker.com/" target="_blank">Control Panel</a> for more info!</li>
+<li>NEW - Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
+<li>And much more. Login to our <a href="http://ptdemo.idxbroker.com/" target="_blank">Control Panel</a> for more info!</li>
 </ul>
 
-<h3>For Current IDX Broker Subscribers</h3>
+<h3>IDX Broker (v1 Release) Subscribers</h3>
 
-If you already have an IDX Broker account and want to upgrade to Platinum now, simply <a href="http://www.idxbroker.com/contact_idx.php" target="_blank" >contact Support</a>. 
+You may continue to use the previous plugin. If you already have an IDX Broker account and want to upgrade to Platinum, simply <a href="http://www.idxbroker.com/contact_idx.php" target="_blank" >contact Support</a>. Please note that, due to the demand, migration requests may take up to three weeks to process. 
 
 <h4>Migration details:</h4> 
 <ul>
 <li>If you don't currently have a custom domain setup for your IDX Broker pages (e.g., search.mysite.com), we highly recommend that you do this in IDX Broker Platinum.</li>
 <li>All current custom links, lead/email traffic, and billing history will automatically be migrated to Platinum.</li>
 <li>Most links should redirect automatically (see Knowledgebase article link below for more details), however, we recommend that you switch to the new IDX Broker Platinum links.</li>
-<li>IDX Broker widgets will need to be replaced with Platinum Widgets (Much more powerful!)</li>
-<li>You will have 30 days to apply any updates to your site. This should be more than enough time to make the switch to the new, much more powerful IDX Broker Platinum</li>
+<li>IDX Broker widgets will need to be replaced with Platinum Widgets.</li>
+<li>You will have 30 days to apply any updates to your site. This should be more than enough time to make the switch to the new, much more powerful IDX Broker Platinum Release.</li>
 </ul>
 
 <h3>General Terms of Use</h3> 
