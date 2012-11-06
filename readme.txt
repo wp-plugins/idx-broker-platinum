@@ -12,7 +12,7 @@ License: GPLv2 or later
 <h3>The ONLY WordPress Plugin that gives you full client capture and fully customizable IDX in one $39.99 package. Don't compromise!</h3>
 <br />
 <ul>
-<li>Fully indexable <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">custom domain</a> feature. Subdomains are just as good as subfolders on your website, <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >Just ask Google.</a></li> 
+<li>Fully indexable <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">custom domain</a> feature. Subdomains are just as <strong>indexable</strong> as subfolders on your website, <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >Just ask Google.</a></li> 
 <li>NEW - Search-friendly property URLs. Display property address and much more in your IDX URL and get those pages indexed by search enginers faster.</li>
 <li>NEW - Mobile-friendly IDX search. The most powerful mobile IDX solution that money can buy, at no extra cost. Mobile features include lead capture, property saves, tap to call or email, and full CSS customization!</li>
 <li>NEW - Team and Office accounts may now assign a custom link to ANY agent. Give your Agents a sub-header with a simple URL tag, and any leads sent by the Agent to that page will be automatically assigned to them.</li>
