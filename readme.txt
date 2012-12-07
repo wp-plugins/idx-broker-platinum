@@ -4,7 +4,7 @@ Contributors: idxco
 Author URL: http://www.idxbroker.com
 Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin
 Tested up to: 3.4.2
-Stable tag: 1.5.3
+Stable tag: 1.0.6
 License: GPLv2 or later	 
 
 == Description ==
@@ -20,6 +20,7 @@ License: GPLv2 or later
 <li>NEW Client Capture Tools. Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>   
 <li>Add a full sized Map Widget(s) to ANY page on your site (NEW).</li> 
 <li>NEW - Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
+<li>NEW - Use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
 <li>And much more. Login to our <a href="http://ptdemo.idxbroker.com/" target="_blank">Control Panel</a> for more info!</li>
 </ul>
 
@@ -91,3 +92,7 @@ Additional CSS clean up; specific to certain installations/WP versions.
 = 1.0.5 =
 
 Cleaned up naming convention inconsistencies.
+
+= 1.0.6 =
+
+Added shortcode functionality. The plugin now adds an IDX button to the Visual editor which allows you to add shortcodes for the various page links and widgets IDX Broker provides.

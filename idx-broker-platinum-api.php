@@ -28,8 +28,11 @@ function idx_platinum_get_systemlinks () {
    			delete_transient('idx_widget_cache');	
    			return new WP_Error( 'idx_api_error',	__( 'The key entered is not a valid API key.<br/>Please remove any extra spaces from your key, or call 800-421-9668 to re-enable your account.' ));
    		} else {
-   			
-   			return new WP_Error( 'idx_api_error',	__( 'The API server is currently unavailable.<br />Please try again in several minutes. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   			if(function_exists('curl_init')) {
+   				return new WP_Error( 'idx_api_error',	__( 'The API server is currently unavailable.<br />Please try again in several minutes. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   			} else {
+   				return new WP_Error( 'idx_api_error',	__( 'PHP Curl extension is not enabled in your server.<br />Please enable it and try again. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   			}
    		}
 		// display an error message here  
 	} elseif (is_array($response['response']) && $response['response']['code'] == 200 && isset($response['body'])) {   
@@ -71,7 +74,11 @@ function idx_platinum_get_savedlinks () {
    			delete_transient('idx_widget_cache');	
    			return new WP_Error( 'idx_api_error',	__( 'The key entered is not a valid API key.<br/>Please remove any extra spaces from your key, or call 800-421-9668 to re-enable your account.' ));
    		} else {
-   			return new WP_Error( 'idx_api_error',	__( 'The API server is currently unavailable.<br />Please try again in several minutes. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   		   	if(function_exists('curl_init')) {
+   				return new WP_Error( 'idx_api_error',	__( 'The API server is currently unavailable.<br />Please try again in several minutes. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   			} else {
+   				return new WP_Error( 'idx_api_error',	__( 'PHP Curl extension is not enabled in your server.<br />Please enable it and try again. If the problem continues, please submit a ticket through our online knowledgebase at kb.idxbroker.com.' ));
+   			}   		
    		}
 		// display an error message here  
 	} elseif (is_array($response['response']) && $response['response']['code'] == 200 && isset($response['body'])) {   
@@ -116,4 +123,8 @@ function idx_platinum_get_widgets () {
 	set_transient('idx_widget_cache', $idx_widgets, 3600);
 
 	return $idx_widgets;
+}
+
+function check_curl_enabled() {
+	return function_exists('curl_init');
 }
