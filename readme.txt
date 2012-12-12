@@ -3,8 +3,8 @@ Author: IDX Broker
 Contributors: idxco
 Author URL: http://www.idxbroker.com
 Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin
-Tested up to: 3.4.2
-Stable tag: 1.0.6
+Tested up to: 3.5
+Stable tag: 1.0.7
 License: GPLv2 or later	 
 
 == Description ==
@@ -96,3 +96,7 @@ Cleaned up naming convention inconsistencies.
 = 1.0.6 =
 
 Added shortcode functionality. The plugin now adds an IDX button to the Visual editor which allows you to add shortcodes for the various page links and widgets IDX Broker provides.
+
+= 1.0.7 =
+
+Added support for php start and stop tags. Some users migrating from the original IDX Broker may have used an older method of adding the dynamic wrapper tags to their theme that was dependant on our original plugin. This update prevents errors when those users disable our original plugin.
