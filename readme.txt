@@ -9,10 +9,11 @@ License: GPLv2 or later
 
 == Description ==
 
-<h3>IDX Broker Platinum (BETA)</h3>
+<h3>IDX Broker Platinum (Limited BETA release)</h3>
 <br />
 <ul>
 <li>Fully indexable <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">custom domain</a> feature. Subdomains are just as <strong>indexable</strong> as subfolders on your website, <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >Just ask Google.</a></li> 
+<li>NEW in 1.0.7 - Use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
 <li>NEW - Search-friendly property URLs. Display property address and much more in your IDX URL and get those pages indexed by search enginers faster.</li>
 <li>NEW - Mobile-friendly IDX search. The most powerful mobile IDX solution that money can buy, at no extra cost. Mobile features include lead capture, property saves, tap to call or email, and full CSS customization!</li>
 <li>NEW - Team and Office accounts may now assign a custom link to ANY agent. Give your Agents a sub-header with a simple URL tag, and any leads sent by the Agent to that page will be automatically assigned to them.</li>
@@ -20,22 +21,15 @@ License: GPLv2 or later
 <li>NEW Client Capture Tools. Email Update tracking, client traffic stats, force or request registration pop-up (or send them to your own customized signup form). </li>   
 <li>Add a full sized Map Widget(s) to ANY page on your site (NEW).</li> 
 <li>NEW - Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
-<li>NEW - Use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
-<li>And much more. Login to our <a href="http://ptdemo.idxbroker.com/" target="_blank">Control Panel</a> for more info!</li>
 </ul>
 
-<h3>IDX Broker (v1 Release) Subscribers</h3>
+<h3>IDX Broker (v1) Subscribers</h3>
 
-You may continue to use the previous plugin. If you already have an IDX Broker account and want to upgrade to Platinum, simply <a href="http://www.idxbroker.com/contact_idx.php" target="_blank" >contact Support</a>. Please note that, due to the demand, migration requests may take up to three weeks to process. 
+IDX Broker Platinum BETA is designed for those partners and clients that previously signed up for the Platinum beta program; that program is now closed to new participants. Expect full release details in early 2013. Upon full release, you will receive information about how to migrate your IDX Broker account to IDX Broker Platinum.  
 
-<h4>Migration details:</h4> 
-<ul>
-<li>If you don't currently have a custom domain setup for your IDX Broker pages (e.g., search.mysite.com), we highly recommend that you do this in IDX Broker Platinum.</li>
-<li>All current custom links, lead/email traffic, and billing history will automatically be migrated to Platinum.</li>
-<li>Most links should redirect automatically (see Knowledgebase article link below for more details), however, we recommend that you switch to the new IDX Broker Platinum links.</li>
-<li>IDX Broker widgets will need to be replaced with Platinum Widgets.</li>
-<li>You will have 30 days to apply any updates to your site. This should be more than enough time to make the switch to the new, much more powerful IDX Broker Platinum Release.</li>
-</ul>
+<h3>Interested Subscribers</h3>
+
+If you are interested in learning more about IDX Broker Platinum Beta, and would like to discuss with certified IDX, Inc. Developer Partner, we recommend that you visit <a href="http://www.idxbroker.com/partners/partner_list.php" target="_blank" >this page</a> for more details. Agent Evolution, Agent Image, Realty Candy, and WP IDX are few partners that have access to IDX Broker Platinum Beta. Note that the monthly cost remains that sames as that of IDX Broker. $39.99 for most Agent accounts, $49.99 for Team accounts, and 3-10 Agent Offices starting at $78.99. Additional Agent packages of 50 may be purchaed for $40/monthly.   
 
 <h3>General Terms of Use</h3> 
 
@@ -43,11 +37,11 @@ This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs 
 
 == Installation ==
 
-1. Download and extract the IDX Broker plugin. You may also install directly by going to your WP-Admin page and then Plugins > Add New. Search for 'idx broker platinum' under new plugins and click to install directly.
+1. Download and extract the IDX Broker Platinum plugin. You may also install directly by going to your WP-Admin page and then Plugins > Add New. Search for 'idx broker platinum' under new plugins and click to install directly.
 2. Upload the uncompressed folder to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the Plugins menu in WordPress.
-4. You will need to have an active <a href="http://www.idxbroker.com">IDX Broker Platinum</a> account for the Plugin to work. IDX Broker Platinum is currently in Beta, so please contact sales for more information. Once you do, go to the IDX Broker Plugin page within WordPress. Enter your API key and click the 'Save Changes' button.
-5. Your plugin will now pull your IDX Broker account information into Wordpress. Use the IDX Broker Plugin Admin page to add Widgets, menu links, and neighborhood/subdivision landing pages (Custom Links), and more.
+4. You will need to have an active IDX Broker Platinum BETA account for the Plugin to work. IDX Broker Platinum is currently in Beta, and may not be available in all regions. If you have an account, simply go to the IDX Broker Plugin page within WordPress, enter the API key provided via your setup email, and click the 'Save Changes' button.
+5. Your plugin will now pull your IDX Broker Platinum account information into Wordpress. 
 
 == Frequently Asked Questions ==
 
