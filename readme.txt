@@ -9,7 +9,7 @@ License: GPLv2 or later
 
 == Description ==
 
-<h3>IDX Broker Platinum (Limited BETA release)</h3>
+<h3>IDX Broker Platinum Plugin</h3>
 <br />
 <ul>
 <li>Fully indexable <a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">custom domain</a> feature. Subdomains are just as <strong>indexable</strong> as subfolders on your website, <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >Just ask Google.</a></li> 
@@ -23,13 +23,9 @@ License: GPLv2 or later
 <li>NEW - Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
 </ul>
 
-<h3>IDX Broker (v1) Subscribers</h3>
-
-IDX Broker Platinum BETA is designed for those partners and clients that previously signed up for the Platinum beta program; that program is now closed to new participants. Expect full release details in early 2013. Upon full release, you will receive information about how to migrate your IDX Broker account to IDX Broker Platinum.  
-
 <h3>Interested Subscribers</h3>
 
-If you are interested in learning more about IDX Broker Platinum Beta, and would like to discuss with certified IDX, Inc. Developer Partner, we recommend that you visit <a href="http://www.idxbroker.com/partners/partner_list.php" target="_blank" >this page</a> for more details. Agent Evolution, Agent Image, Realty Candy, and WP IDX are few partners that have access to IDX Broker Platinum Beta. Note that the monthly cost remains that sames as that of IDX Broker. $39.99 for most Agent accounts, $49.99 for Team accounts, and 3-10 Agent Offices starting at $78.99. Additional Agent packages of 50 may be purchaed for $40/monthly.   
+If you are interested in learning more about IDX Broker Platinum Beta, and would like to discuss with certified IDX, Inc. Developer Partner, we recommend that you visit <a href="http://www.idxbroker.com/" target="_blank" >this page</a> for more details.   
 
 <h3>General Terms of Use</h3> 
 
