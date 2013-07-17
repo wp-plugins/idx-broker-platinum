@@ -43,19 +43,19 @@ This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs 
 = What is IDX? =
 Internet Data Exchange, or IDX, is a type of data feed provided by your MLS. This data feed typically (but not always) mirrors the data available on your MLS's website. IDX Broker&reg; connects to this data feed automatically, maps the necessary fields, and then adds forms, scripts, etc, giving you a way to add html links and widgets to you website(s). 
 
-= Do I need an IDX Broker account in order to use this plugin? =
-Yes. IDX Broker manages your IDX feed by building forms, results, and property details pages that match your website or blog design. All IDX feeds require approval from a local board or MLS. If you are not a member of a local board or MLS, or your MLS does not provide an IDX data feed, then you will be unable to add IDX Broker plugin functionality to your WordPress site. <a href="http://www.idxbroker.com/idx_mls_coverage.php">Read more about our MLS coverage.</a> Note that some MLS's may charge you a separate fee for access to your IDX feed. 
+= Do I need an IDX Broker Platinum account in order to use this plugin? =
+Yes. IDX Broker Platinum manages your IDX feed by building forms, results, and property details pages that match your website or blog design. All IDX feeds require approval from a local board or MLS. If you are not a member of a local board or MLS, or your MLS does not provide an IDX data feed, then you will be unable to add IDX Broker plugin functionality to your WordPress site. <a href="http://www.idxbroker.com/idx_mls_coverage.php">Read more about our MLS coverage.</a> Note that some MLS's may charge you a separate fee for access to your IDX feed. 
 
-= Does IDX Broker require a long-term contract? =
-No. IDX Broker requires a month-to-month agreement only. There are three monthly account levels - Agent ($39.99+), Team ($49.99+), and Office($78.99+). 
+= Does IDX Broker Platinum require a long-term contract? =
+No. IDX Broker Platinum requires a month-to-month agreement only. There are three monthly account levels - Agent ($59.99+), Team ($69.99+), and Office($98.99+). 
 
-= What can I expect if I decide to get my IDX feed through IDX Broker? =
+= What can I expect if I decide to get my IDX feed through IDX Broker Platinum? =
 When you sign up for a new account, IDX, Inc sends you any necessary MLS paperwork (if required). Once you have signed the necessary paperwork, you will need to fax that back to us and we will then forward your paperwork to the MLS for approval. Approval can take anywhere from 3-10 days. Once approved, we will activate your account, integrate your site's design into IDX pages, and send you IDX Broker login credentials so that you can add links and Widgets to your site or blog.  
 
-= How many blogs/websites can I integrate with IDX Broker? =
+= How many blogs/websites can I integrate with IDX Broker Platinum? =
 Features provided by this Plugin - Widgets, links, and custom links may be placed onto any WordPress website or blog, regardless of MLS approval status. The reason for this is because all Widgets, links, and custom links point back to the original IDX-approved website. Each IDX Broker account requires MLS approval of one site for IDX display. Your search results and details pages must match this approved site. 
 
-= Does IDX Broker offer lead capture functionality? =
+= Does IDX Broker Platinum offer lead capture functionality? =
 Yes. IDX Broker provides you with a sign up Widget, sign up links, a lead manager page, a customizable sign up form, and provides you with 'teaser' registration options. 
  
 == Screenshots ==
