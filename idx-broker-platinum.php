@@ -18,7 +18,7 @@ Description: Over 550 IDX/MLS feeds serviced. The #1 IDX/MLS solution just got e
 
 
 
-Version: 1.0.7
+Version: 1.0.8
 
 
 
@@ -212,7 +212,7 @@ function idx_broker_activated() {
 
 
 
-	echo "\n<!-- IDX Broker Platunum WordPress Plugin v1.0.7 Activated -->\n\n";
+	echo "\n<!-- IDX Broker Platunum WordPress Plugin v1.0.8 Activated -->\n\n";
 
 
 
@@ -1106,7 +1106,7 @@ function idx_broker_platinum_admin_page() {
 
 
 
-				<div id="ptlogo"></div>
+				
 
 
 

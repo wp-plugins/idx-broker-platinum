@@ -4,7 +4,7 @@ Contributors: idxco
 Author URL: http://www.idxbroker.com
 Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin
 Tested up to: 3.5
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later	 
 
 == Description ==
@@ -12,8 +12,8 @@ License: GPLv2 or later
 <h3>IDX Broker Platinum Plugin</h3>
 
 <ul>
-<li>Plans start at $59.99 and are well-suited to Offices and Tech-savvy Realtors. For a simpler version of IDX Broker, try the <a href="http://wordpress.org/plugins/idx-broker-wordpress-plugin/">IDX Broker Original Plugin</a>.</li>
-<li>Intra-daily updates for over 100 RETS datasets, for the most up-to-date data and images.</li>  
+<li>Plans start at $59.99 and are well-suited to Offices and tech-savvy Realtors. For plans that start at $39.99, check out the <a href="http://wordpress.org/plugins/idx-broker-wordpress-plugin/">IDX Broker Original Plugin</a>.</li>
+<li>Intra-daily updates for all RETS datasets (check with your local MLS), for the most up-to-date data and images.</li>  
 <li><a href="http://www.idxbroker.com/features/platinum/layout-(template)-manager">New Layout Selector</a>, with impressive new layouts that can be selected for each page type.</li>
 <li><a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">Custom Domains</a> setup through IDX Broker Platinum are fully indexable  <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >according to Google.</a> Choosing a hosted solution like IDX Broker Platinum means that you will get many more lead capture, engagement, and other features that cannot be replicated within WordPress itself. Choose the most powerful IDX solution from the start, and you won't be disappointed.</li> 
 <li>Now you can use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
@@ -35,7 +35,7 @@ This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs 
 1. Download and extract the IDX Broker Platinum plugin. You may also install directly by going to your WP-Admin page and then Plugins > Add New. Search for 'idx broker platinum' under new plugins and click to install directly.
 2. Upload the uncompressed folder to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the Plugins menu in WordPress.
-4. You will need to have an active IDX Broker Platinum BETA account for the Plugin to work. IDX Broker Platinum is currently in Beta, and may not be available in all regions. If you have an account, simply go to the IDX Broker Plugin page within WordPress, enter the API key provided via your setup email, and click the 'Save Changes' button.
+4. You will need to have an active IDX Broker Platinum account for the Plugin to work. If you have an account, simply go to the IDX Broker Plugin page within WordPress, enter the API key provided via your setup email, and click the 'Save Changes' button.
 5. Your plugin will now pull your IDX Broker Platinum account information into Wordpress. 
 
 == Frequently Asked Questions ==
@@ -90,3 +90,7 @@ Added shortcode functionality. The plugin now adds an IDX button to the Visual e
 = 1.0.7 =
 
 Added support for php start and stop tags. Some users migrating from the original IDX Broker may have used an older method of adding the dynamic wrapper tags to their theme that was dependant on our original plugin. This update prevents errors when those users disable our original plugin.
+
+= 1.0.8 =
+
+Remove Beta image from control panel. Remaining Beta text from readme. 
