@@ -3,8 +3,8 @@ Author: IDX Broker
 Contributors: idxco
 Author URL: http://www.idxbroker.com
 Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin
-Tested up to: 3.5
-Stable tag: 1.0.8
+Tested up to: 3.6.1
+Stable tag: 1.0.9
 License: GPLv2 or later	 
 
 == Description ==
@@ -12,7 +12,7 @@ License: GPLv2 or later
 <h3>IDX Broker Platinum Plugin</h3>
 
 <ul>
-<li>Plans start at $59.99 and are well-suited to Offices and tech-savvy Realtors. For plans that start at $39.99, check out the <a href="http://wordpress.org/plugins/idx-broker-wordpress-plugin/">IDX Broker Original Plugin</a>.</li>
+<li>Plans start at $59.99.</li>
 <li>Intra-daily updates for all RETS datasets (check with your local MLS), for the most up-to-date data and images.</li>  
 <li><a href="http://www.idxbroker.com/features/platinum/layout-(template)-manager">New Layout Selector</a>, with impressive new layouts that can be selected for each page type.</li>
 <li><a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">Custom Domains</a> setup through IDX Broker Platinum are fully indexable  <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >according to Google.</a> Choosing a hosted solution like IDX Broker Platinum means that you will get many more lead capture, engagement, and other features that cannot be replicated within WordPress itself. Choose the most powerful IDX solution from the start, and you won't be disappointed.</li> 
@@ -94,3 +94,7 @@ Added support for php start and stop tags. Some users migrating from the origina
 = 1.0.8 =
 
 Remove Beta image from control panel. Remaining Beta text from readme. 
+
+= 1.0.9 =
+
+Added helpful links to plugin. Fully tested to 3.6.1. Added Bing Map search library for users who add the map widget. 
