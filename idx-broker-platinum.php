@@ -211,7 +211,7 @@ function idx_broker_activated() {
 
 
 
-	echo "\n<!-- IDX Broker Platunum WordPress Plugin v1.0.9 Activated -->\n\n";
+	echo "\n<!-- IDX Broker Platinum WordPress Plugin v1.0.9 Activated -->\n\n";
 
 
 
