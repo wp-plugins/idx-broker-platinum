@@ -9,49 +9,50 @@ License: GPLv2 or later
 
 == Description ==
 
-<h2>IDX Broker Platinum Plugin</h2>
+<h3>IDX Broker Platinum Plugin</h3>
 
 <ul>
-<h3>Mobile Functionality That Your Clients Will Rave About!</h3>
+<h4>Mobile Functionality That Your Clients Will Rave About!</h4>
 <li>Mobile-Friendly Layouts for the latest Mobile Responsive Themes. Don't have a Mobile Responsive theme? Choose from <a href="http://themes.agentevolution.com/shop/turn-key/">Turn Key</a>, or several other themes and theme providers that have created a very easy to use, out-of-the box Platinum Theme experience for you!</li>
 <li>Email updates and property updates that link to mobile-friendly property detail pages - displayed on your custom subdomain.</li>
 <li>A "View Full Site" link on the footer of every mobile page, so people can choose to view non-mobile pages if that's what they want.</li>
 <li>Mobile lead capture that is integrated with your IDX Broker Platinum control panel. Mobile and non-mobile lead traffic statistics are all available in one place!</li>
 
-<h3>SEO-friendly, and FAST!</h3>
+<h4>SEO-friendly, and FAST!</h4>
 
 <li>Build your own neighborhood or subdivision pages in WordPress, write a story, or a post, and then use keyword anchor links to link out to custom neighborhood links. URL, meta title, meta description, and meta keyword tags are all editable from your IDX Broker Platinum control panel. Custom link results in IDX Broker will get indexed, and then direct traffic back to your primary domain - giving you even more backlinks!</li>
 <li>Use property address, subdivision, city name, zipcode, and more in the URL path of each and every details page.</li>
 <li>Google and other search engines look for fast-loading pages. Give them cloud-hosted, well-tuned IDX pages that deliver results within 1-3 seconds. You might even discover that your IDX pages load more quickly than your WordPress pages!</li>
 <li><a href="http://kb.idxbroker.com/index.php?/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">Custom Domains</a> setup through IDX Broker Platinum are fully indexable  <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >according to Google.</a> </li> 
 
-<h3>Better Data, Now.</h3>
+<h4>Better Data, Now.</h4>
 
 <li>Intra-daily updates for all RETS datasets (check with your local MLS), for the most up-to-date data and images.</li>  
 
-<h3>Better Design Options.</h3>
+<h4>Better Design Options.</h4>
 
 <li><a href="http://www.idxbroker.com/features/platinum/layout-(template)-manager">New Layout Selector</a>, with impressive new layouts that can be selected for each page type.</li>
 
 <h3>Simple, Yet Powerful Features.</h3>
 <li>Now you can use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
 <li><a href="http://www.idxbroker.com/features/platinum/customizable-details-page-urls">Customizable property URLs!</a> Display the property address and much more in each and every listing URL. Experiment with different URL structures to deliver the most dynamic keyword-rich content for Search Engines.</li>
-<h3>IDX Broker Platinum is the Best Office Solution Available.</h3>
+
+<h4>IDX Broker Platinum is the Best Office Solution Available.</h4>
 <li>New Office Features - Route leads via multiple <a href="http://www.idxbroker.com/features/platinum/round-robin-+-core-fields-lead-routing">Round Robins</a>, assign any custom link to an Agent, build a <a href="http://www.idxbroker.com/features/platinum/feature-agent-listings-showcase">Showcase Widget</a> and create a unique <a href="http://www.idxbroker.com/features/platinum/individual-bio-page-wrappers">Bio Page Wrapper</a> for each Agent!</li>
 
-<h3>Engage With Your Clients: Give Them Value!</h3>
+<h4>Engage With Your Clients: Give Them Value!</h4>
 <li>Automatically sends branded email updates to your leads when certain details change (price, status, etc.).</li>
 <li>A new <a href="http://www.idxbroker.com/features/platinum/message-center">Message Center</a> that allows you to view all emails sent by IDX Broker Platinum.</li>  
 <li>Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
 
-<h3>Map Search: Widget or Link, or Both!</h3>
+<h4>Map Search: Widget or Link, or Both!</h4>
 <li>Add a full-sized <a href="http://www.idxbroker.com/features/platinum/map-search-widget">Map Widget</a> to ANY page on your approved website.</li> 
 
-<h3>Pricing</h3>
+<h4>Pricing</h4>
 <li>Plans start at $59.99. <a href="https://signup.idxbroker.com/">Order Now</a>, or <a href="http://www.idxbroker.com/idx_broker.php#platinum">View All Features Now.</a></li></ul>
 
 
-<h2>General Terms of Use</h2> 
+<h3>General Terms of Use</h3> 
 
 This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs the IDX results and details page display and disclaimers. IDX, Inc. manages all the necessary MLS paperwork. IDX Broker will automatically display the correct MLS/IDX disclaimers to ensure compliance with the MLS(s) & Board(s) that provides you with your IDX feed. 
 
