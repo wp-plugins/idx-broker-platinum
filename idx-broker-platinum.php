@@ -4,7 +4,7 @@ Plugin Name: IDX Broker Platinum
 Plugin URI: http://www.idxbroker.com
 Description: Over 550 IDX/MLS feeds serviced. The #1 IDX/MLS solution just got even better!
 Version: 1.1.0
-Author: IDX, Inc.
+Author: IDX, LLC.
 Author URI: http://www.idxbroker.com/
 License: GPL
 */
