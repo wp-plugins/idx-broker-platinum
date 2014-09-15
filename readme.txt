@@ -2,7 +2,7 @@
 Author: IDX Broker
 Contributors: idxco
 Author URL: http://www.idxbroker.com
-Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin, platinum, realtor
+Tags: IDX, MLS, multiple listing service, idx broker, idx broker platinum, IDX plugin, idx wordpress, idx wordpress plugin, idxbroker, integrated idx, real estate, real estate wordpress, RETS, wordpress idx, wordpress mls, WordPress Plugin, platinum, realtor, idx broker lite, idx lite, idxbroker lite
 Tested up to: 4.0
 Stable tag: 1.1.5
 License: GPLv2 or later
@@ -39,14 +39,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 <h4>Engage With Your Clients: Give Them Value!</h4>
 <li>Automatically sends branded email updates to your leads when certain details change (price, status, etc.).</li>
-<li>A new <a href="http://www.idxbroker.com/features/message-center">Message Center</a> that allows you to view all emails sent by IDX Broker Platinum.</li>
+<li>A new <a href="http://www.idxbroker.com/features/message-center">Message Center</a> that allows you to view all emails sent by IDX Broker.</li>
 <li>Customize your client capture forms; change the opacity behind the lead capture pop-up, customize fields, and much more!</li>
 
 <h4>Map Search: Widget or Link, or Both!</h4>
 <li>Add a full-sized <a href="http://www.idxbroker.com/features/map-search-widget">Map Widget</a> to ANY page on your approved website.</li>
 
 <h4>Pricing</h4>
-<li>Plans start at $59.99. <a href="https://signup.idxbroker.com/">Order Now</a>, or <a href="http://www.idxbroker.com/idx_broker">View All Features Now.</a></li></ul>
+<li>Plans start at $39.99 for IDX Broker Lite and $59.99 for IDX Broker Platinum. <a href="https://signup.idxbroker.com/">Order Now</a>, or <a href="http://www.idxbroker.com/idx_broker">View All Features Now.</a></li></ul>
 
 
 <h3>General Terms of Use</h3>
@@ -70,7 +70,7 @@ Internet Data Exchange, or IDX, is a type of data feed provided by your MLS. Thi
 Yes. IDX Broker manages your IDX feed by building forms, results, and property details pages that match your website or blog design. All IDX feeds require approval from a local board or MLS. If you are not a member of a local board or MLS, or your MLS does not provide an IDX data feed, then you will be unable to add IDX Broker plugin functionality to your WordPress site. <a href="http://www.idxbroker.com/idx_mls_coverage">Read more about our MLS coverage.</a> Note that some MLS's may charge you a separate fee for access to your IDX feed.
 
 = Does IDX Broker require a long-term contract? =
-No. IDX Broker requires a month-to-month agreement only. There are three monthly account levels - Agent ($59.99+), Team ($69.99+), and Office($98.99+).
+No. IDX Broker requires a month-to-month agreement only. There are three monthly account levels - Agent ($39.99+), Team ($69.99+), and Office($98.99+).
 
 = What can I expect if I decide to get my IDX feed through IDX Broker? =
 When you sign up for a new account, IDX, LLC sends you any necessary MLS paperwork (if required). Once you have signed the necessary paperwork, you will need to fax that back to us and we will then forward your paperwork to the MLS for approval. Approval can take anywhere from 3-10 days. Once approved, we will activate your account, integrate your site's design into IDX pages, and send you IDX Broker login credentials so that you can add links and Widgets to your site or blog.
