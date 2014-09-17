@@ -9,9 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-
-<h3>IDX Broker Plugin<br />Add IDX Broker Lite or Platinum to your WordPress Website!</h3>
-
+<h3>IDX Broker Lite and Platinum Plugin</h3>
 <ul>
 <h4>Mobile Functionality That Your Clients Will Rave About!</h4>
 <li>Mobile-Friendly Layouts for the latest Mobile Responsive Themes. Don't have a Mobile Responsive theme? Choose from <a href="http://themes.agentevolution.com/shop/turn-key/">Turn Key</a>, or several other themes and theme providers that have created a very easy to use, out-of-the box Theme experience for you!</li>
@@ -20,17 +18,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 <li>Mobile lead capture that is integrated with your IDX Broker control panel. Mobile and non-mobile lead traffic statistics are all available in one place!</li>
 
 <h4>SEO-friendly, and FAST!</h4>
-
 <li>Build your own neighbourhood or subdivision pages in WordPress, write a story, or a post, and then use keyword anchor links to link out to custom neighbourhood links. URL, meta title, meta description, and meta keyword tags are all editable from your IDX Broker control panel. Custom link results in IDX Broker will get indexed, and then direct traffic back to your primary domain - giving you even more backlinks!</li>
 <li>Use property address, subdivision, city name, zipcode, and more in the URL path of each and every details page.</li>
 <li>Google and other search engines look for fast-loading pages. Give them cloud-hosted, well-tuned IDX pages that deliver results within 1-3 seconds. You might even discover that your IDX pages load more quickly than your WordPress pages!</li>
 <li><a href="http://kb.idxbroker.com/Knowledgebase/Article/View/7/0/using-a-custom-subdomain">Custom Domains</a> setup through IDX Broker are fully indexable  <a href="https://sites.google.com/site/webmasterhelpforum/en/faq--crawling--indexing---ranking#subfolder-subdomain" target="_blank" >according to Google.</a> </li>
 
 <h4>Better Design Options.</h4>
-
 <li><a href="http://www.idxbroker.com/features/layout-(template)-manager">Layout Selector</a>, with impressive new layouts that can be selected for each page type.</li>
 
-<h3>Simple, Yet Powerful Features.</h3>
+<h4>Simple, Yet Powerful Features.</h4>
 <li>Now you can use short codes to add IDX Page Links and Widgets to your WordPress Posts and Pages!</li>
 <li><a href="http://www.idxbroker.com/features/platinum/customizable-details-page-urls">Customizable property URLs!</a> Display the property address and much more in each and every listing URL. Experiment with different URL structures to deliver the most dynamic keyword-rich content for Search Engines.</li>
 
@@ -49,7 +45,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 <li>Plans start at $39.99 for IDX Broker Lite and $59.99 for IDX Broker Platinum. <a href="https://signup.idxbroker.com/">Order Now</a>, or <a href="http://www.idxbroker.com/idx_broker">View All Features Now.</a></li></ul>
 
 
-<h3>General Terms of Use</h3>
+<h4>General Terms of Use</h4>
 
 This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs the IDX results and details page display and disclaimers. IDX, LLC manages all the necessary MLS paperwork. IDX Broker will automatically display the correct MLS/IDX disclaimers to ensure compliance with the MLS(s) & Board(s) that provides you with your IDX feed.
 
