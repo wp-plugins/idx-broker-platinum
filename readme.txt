@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-<strong>IDX Broker Lite and Platinum Plugin</strong>
+<h4>IDX Broker Lite and Platinum Plugin</h4>
 
 <ul>
 <h4>Mobile Functionality That Your Clients Will Rave About!</h4>
