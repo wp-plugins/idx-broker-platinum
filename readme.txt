@@ -9,11 +9,10 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-
-<h2>IDX Broker Plugin - Add IDX Broker Lite or Platinum to your WordPress Website!</h2>
+<h3 style="display: inline !important;">IDX Broker Plugin - Add IDX Broker Lite or Platinum to your WordPress Website!</h3>
 
 <ul>
-<h4>Mobile Functionality That Your Clients Will Rave About!</h4>
+<h4 style="margin: 0.5em 0 7px !important;">Mobile Functionality That Your Clients Will Rave About!</h4>
 <li>Mobile-Friendly Layouts for the latest Mobile Responsive Themes. Don't have a Mobile Responsive theme? Choose from <a href="http://themes.agentevolution.com/shop/turn-key/">Turn Key</a>, or several other themes and theme providers that have created a very easy to use, out-of-the box Theme experience for you!</li>
 <li>Email updates and property updates that link to mobile-friendly property detail pages - displayed on your custom subdomain.</li>
 <li>A "View Full Site" link on the footer of every mobile page, so people can choose to view non-mobile pages if that's what they want.</li>
@@ -54,7 +53,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs the IDX results and details page display and disclaimers. IDX, LLC manages all the necessary MLS paperwork. IDX Broker will automatically display the correct MLS/IDX disclaimers to ensure compliance with the MLS(s) & Board(s) that provides you with your IDX feed.
 
 == Installation ==
-
 1. Download and extract the IDX Broker plugin. You may also install directly by going to your WP-Admin page and then Plugins > Add New. Search for 'idx broker' under new plugins and click to install directly.
 2. Upload the uncompressed folder to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the Plugins menu in WordPress.
@@ -62,7 +60,6 @@ This IDX plugin is supported by MLS/IDX feeds. This means that your MLS governs 
 5. Your plugin will now pull your IDX Broker account information into Wordpress.
 
 == Frequently Asked Questions ==
-
 = What is IDX? =
 Internet Data Exchange, or IDX, is a type of data feed provided by your MLS. This data feed typically (but not always) mirrors the data available on your MLS's website. IDX Broker&reg; connects to this data feed automatically, maps the necessary fields, and then adds forms, scripts, etc, giving you a way to add html links and widgets to you website(s).
 
@@ -82,7 +79,6 @@ Features provided by this Plugin - Widgets, links, and custom links may be place
 Yes. IDX Broker provides you with a sign up Widget, sign up links, a lead manager page, a customizable sign up form, and provides you with 'teaser' registration options.
 
 == Screenshots ==
-
 1. Widget Builder.
 2. Dynamic Wrapper.
 3. Core Routing With Round Robin.
