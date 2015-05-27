@@ -3,7 +3,7 @@
 Plugin Name: IDX Broker
 Plugin URI: http://www.idxbroker.com
 Description: Over 600 IDX/MLS feeds serviced. The #1 IDX/MLS solution just got even better!
-Version: 1.1.6
+Version: 1.1.7
 Author: IDX Broker
 Contributors: IDX, LLC
 Author URI: http://www.idxbroker.com/
@@ -26,7 +26,7 @@ define('SHORTCODE_SYSTEM_LINK', 'idx-platinum-system-link');
 define('SHORTCODE_SAVED_LINK', 'idx-platinum-saved-link');
 define('SHORTCODE_WIDGET', 'idx-platinum-widget');
 define('IDX__PLUGIN_DIR', plugin_dir_path(__FILE__));
-define('IDX_WP_PLUGIN_VERSION', '1.1.6');
+define('IDX_WP_PLUGIN_VERSION', '1.1.7');
 define('IDX_API_DEFAULT_VERSION', '1.2.0');
 define('IDX_API_URL', 'https://api.idxbroker.com/');
 
@@ -374,7 +374,7 @@ function update_saved_page_links($savedlinks) {
         if($post_id) {
             //update the saved links
             $wpdb->update($wpdb->postmeta, array('meta_value' => $savedlink->url), array('post_id' => $post_id));
-            $post_title = str_replace('_', ' ', $savedlink->linkName);
+            $post_title = str_replace('_', ' ', $savedlink->linkTitle);
             $post_name = str_replace('', '_', $savedlink->linkName);
             $wpdb->update($wpdb->posts, array('post_title' => $post_title,
                     'post_name' => $post_name), array('ID' => $post_id));
@@ -728,7 +728,7 @@ function update_savedlinks() {
     }
     if ($saveLinksNamesStr != '')
     {
-        $postVariables = explode('/&/', $saveLinksNamesStr);
+        $postVariables = explode('&', $saveLinksNamesStr);
         foreach ($postVariables as $names) {
             list($key,$val) = explode('=',$names);
             $saveLinksNames[$key] = urldecode($val);
